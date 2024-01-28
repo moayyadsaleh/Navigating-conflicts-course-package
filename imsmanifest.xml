@@ -1,0 +1,122 @@
+<?xml version="1.0" standalone="no" ?>
+<manifest identifier="WumVa0uDNjQlv_Qlbft4BfK6m2v8ty-fN_iVe6Rn" version="1.3"
+  xmlns="http://www.imsglobal.org/xsd/imscp_v1p1"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_v1p3"
+  xmlns:adlseq="http://www.adlnet.org/xsd/adlseq_v1p3"
+  xmlns:imsss="http://www.imsglobal.org/xsd/imsss"
+  xsi:schemaLocation="http://www.imsglobal.org/xsd/imscp_v1p1 imscp_v1p1.xsd
+                      http://www.adlnet.org/xsd/adlcp_v1p3 adlcp_v1p3.xsd
+                      http://www.adlnet.org/xsd/adlseq_v1p3 adlseq_v1p3.xsd
+                      http://www.imsglobal.org/xsd/imsss imsss_v1p0.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>2004 4th Edition</schemaversion>
+    <adlcp:location>metadata.xml</adlcp:location>
+  </metadata>
+  <organizations default="B0">
+    <organization identifier="B0" adlseq:objectivesGlobalToSystem="false">
+      <title>Navigating Workplace: Conflict Resolution Essentials</title>
+      <item identifier="i1" identifierref="r1" isvisible="true">
+        <title>Navigating Workplace: Conflict Resolution Essentials</title>
+        <adlcp:dataFromLMS>eyJjcHYiOiJOX2lWZTZSbiIsInJsZCI6ZmFsc2V9</adlcp:dataFromLMS>
+        <imsss:sequencing>
+          <imsss:deliveryControls tracked="true" completionSetByContent="true" objectiveSetByContent="true"/>
+        </imsss:sequencing>
+      </item>
+      <metadata>
+        <adlcp:location>metadata.xml</adlcp:location>
+      </metadata>
+      <imsss:sequencing>
+        <imsss:controlMode choice="true" flow="true"/>
+      </imsss:sequencing>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="r1" type="webcontent" adlcp:scormType="sco" href="scormdriver/indexAPI.html">
+      <!-- SCORMDRIVER STUFF -->
+      <file href="scormdriver/indexAPI.html" />
+      <file href="scormdriver/preloadIntegrity.js" />
+      <file href="scormdriver/driverOptions.js" />
+      <file href="scormdriver/AICCComm.html" />
+      <file href="scormdriver/auto-scripts/AutoBookmark.js" />
+      <file href="scormdriver/auto-scripts/AutoCompleteSCO.js" />
+      <file href="scormdriver/auto-scripts/CourseExit.js" />
+      <file href="scormdriver/blank.html" />
+      <file href="scormdriver/goodbye.html" />
+      <file href="scormdriver/scormdriver.js" />
+      <file href="scormdriver/browsersniff.js" />
+
+      <!-- RUNTIME COMMON STUFF -->
+      <file href="scormcontent/index.html" />
+
+      
+        <file href="scormcontent/lib/fonts/icomoon.ttf"/>
+        <file href="scormcontent/lib/fonts/icomoon.woff"/>
+
+        <file href="scormcontent/lib/icomoon.css"/>
+        <file href="scormcontent/lib/player-0.0.11.min.js"/>
+        <file href="scormcontent/lib/lzwcompress.js"/>
+      
+
+      <!-- FRONTEND BUNDLE ASSETS -->
+      <file href="scormcontent/lib/rise/1879cea8.js" />
+<file href="scormcontent/lib/rise/11732e6a.css" />
+<file href="scormcontent/lib/rise/8a904efb.js" />
+<file href="scormcontent/lib/rise/1b451569.css" />
+<file href="scormcontent/lib/rise/a4e1a109.js" />
+<file href="scormcontent/lib/rise/eb9bd09f.js" />
+<file href="scormcontent/lib/rise/20be7de8.js" />
+<file href="scormcontent/lib/mondrian/entry.js" />
+<file href="scormcontent/lib/mondrian/b6873211.js" />
+<file href="scormcontent/lib/mondrian/0e859ef5.js" />
+<file href="scormcontent/lib/mondrian/7b2a258a.js" />
+<file href="scormcontent/lib/mondrian/18ae508c.js" />
+<file href="scormcontent/lib/mondrian/3e40eb79.js" />
+<file href="scormcontent/lib/mondrian/cdf9a293.js" />
+<file href="scormcontent/lib/mondrian/3f9ba7c0.js" />
+<file href="scormcontent/lib/mondrian/07d24945.js" />
+
+
+      <!-- RUNTIME CONTENT STUFF -->
+      <file href="scormcontent/lib/fonts/MavenPro-Medium.woff" />
+<file href="scormcontent/lib/fonts/MavenPro-Regular.woff" />
+<file href="scormcontent/lib/fonts/Lustria-Regular.woff" />
+<file href="scormcontent/lib/fonts/Montserrat-SemiBold.woff" />
+<file href="scormcontent/lib/fonts/Montserrat-Medium.woff" />
+<file href="scormcontent/lib/fonts/Montserrat-Black.woff" />
+<file href="scormcontent/lib/fonts/Montserrat-Bold.woff" />
+<file href="scormcontent/lib/fonts/Montserrat-Italic.woff" />
+<file href="scormcontent/lib/fonts/Montserrat-Regular.woff" />
+<file href="scormcontent/lib/fonts/Montserrat-Light.woff" />
+<file href="scormcontent/assets/B2i5mYi3mq2BXmva_small.png" />
+<file href="scormcontent/assets/XbNK9WPHjCgn-Ybm_JeO5QETYrXlnAcE7-stock-image.jpg" />
+<file href="scormcontent/assets/FeQeg2i7i5gEKEoF_fxDQsw3X2uWU-TeT.jpg" />
+<file href="scormcontent/assets/meTiNjfdgMYTr5sa_KvTEeFV6tOA834td.jpg" />
+<file href="scormcontent/assets/iXD6v7UEecZtnlAO_0B9FAwmd_eq07u4n.jpg" />
+<file href="scormcontent/assets/rNSHVpU4Pjsl8ceu_Ltk0NFemeDGP1bac.jpg" />
+<file href="scormcontent/assets/BQK7F0n-NEZCJd13_qmvp7LB4xBgtTeCw.jpg" />
+<file href="scormcontent/assets/H1YYOorRosFN1vGd_C6cFnxkhsDjd6lGi.jpg" />
+<file href="scormcontent/assets/JT8AoFC-n5M2CLqP_aKILrkBqQUill6De.jpg" />
+<file href="scormcontent/assets/2snx5ioIFtcN9DLG_sWq9YxxYOLODhD9D.jpg" />
+<file href="scormcontent/assets/oAN9TWu2t0CLJcAq_FdbYbRav1foSpb53.jpg" />
+<file href="scormcontent/assets/CFgVPxiUUVqsTOGX_6-ifZh0TWYcFjFiN.jpg" />
+<file href="scormcontent/assets/xxsU0Pprdk_h4fxN_quote_background.jpg" />
+<file href="scormcontent/assets/WTPyuZ26LKOgGcY1_erK5vBFeygOAVu1O.jpg" />
+<file href="scormcontent/assets/46ij17N_q8BOREiQ_DCNVNikoOAISaolS.jpg" />
+<file href="scormcontent/assets/9l5QW0LwBKXTBBXv_T__CHngxRB2h5x7u.jpg" />
+<file href="scormcontent/assets/r40urIzoPPi8L3f2_DPJXiBMZHstgZAgQ.jpg" />
+<file href="scormcontent/assets/c87LVX5XXyTmw7Ib_q-vn0wUKyoAV-dQ4.jpg" />
+<file href="scormcontent/assets/hdfEATnmv7n55AjS_1msTfeYQEGzG_D7v.jpg" />
+<file href="scormcontent/assets/YmpqQSN7kpIfM530_K0ixm7vaFn38Jpow.jpg" />
+<file href="scormcontent/assets/F_YxgSnhwI-4FLoC_lQ5kS6SspZKW3-OA.jpg" />
+<file href="scormcontent/assets/dkRd-KyNEuT5BrhS_-JEYFca21jUGEFyE.jpg" />
+<file href="scormcontent/assets/41cRy0YBG0EQ4BEI_LA8pJoiNphb2HuEH.jpg" />
+<file href="scormcontent/assets/Ezvmm3TKX-KDzSRL_VZ7TDfAcD7s_h5UV.jpg" />
+<file href="scormcontent/assets/eN9hABkeFJ86ggFl_8ABAtlt0opI_OGAm.jpg" />
+
+      <file href="scormcontent/locales/und.js" />
+
+    </resource>
+  </resources>
+</manifest>
